@@ -13,6 +13,12 @@ There are no snippets added to this package, you would not remember them anyhow.
 
 'To-do: Add WP Class's' 
 
+### Tip
+
+Sublime has issues with autcompleting php files that do not have closing `?>` tags , so in "Preferences-->Settings-User" add this snippet:
+
+    "auto_complete_selector": "source, text",
+
 ### Installation
 
 #### With Package Control
