@@ -9,7 +9,7 @@ The other WordPress sublime package was not up to date and missing stuff so I bu
     Current WP version : 3.6  
     Auto completes     : 3284
 
-There are no snippets added to this package, you would not remember them anyhow, so build your own, also depreciated functions have been removed :smiley_cat:  
+There are no snippets added to this package, you would not remember them anyhow. Depreciated functions have been removed :smiley_cat:  
 
 'To-do: Add WP Class's' 
 
