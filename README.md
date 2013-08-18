@@ -11,13 +11,13 @@ The other WordPress sublime package was not up to date and missing stuff so I bu
 
 There are no snippets added to this package, you would not remember them anyhow, so build your own, also depreciated functions have been removed :smiley_cat:  
 
-'To-do: Add WP Classes' 
+'To-do: Add WP Class's' 
 
 ### Installation
 
 #### With Package Control
 
-You can install WordPress Complete from inside Sublime Text itself. Open the Command Palette and select "Package Control: Install Package", then search for WordPress Complete and you're done!
+You can install WordPress Auto Complete from inside Sublime Text itself. Open the Command Palette and select "Package Control: Install Package", then search for WordPress Auto Complete and you're done!
 
 #### Manual
 
