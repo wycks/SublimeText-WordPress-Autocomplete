@@ -20,8 +20,7 @@ There are no snippets added to this package, you would not remember them anyhow,
 You can install WordPress Auto Complete from inside Sublime Text itself. Open the Command Palette and select "Package Control: Install Package", then search for WordPress Auto Complete and you're done!
 
 #### Manual
-
-Download the .zip or git clone this into where your sublime packges are located, you can find that out by clicking "Preferences-->Browse Packages".
- 
-
-You should have this to just install it directly from sublime.. [package_control]: http://wbond.net/sublime_packages/package_control
+  
+Download the .zip or git clone this into your sublime packages location, you can find it under "Preferences-->Browse Packages".
+   
+You should have this instead: [package_control](http://wbond.net/sublime_packages/package_control)
