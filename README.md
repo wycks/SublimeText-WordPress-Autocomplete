@@ -26,4 +26,4 @@ Sublime has issues with autcompleting php files that do not have closing `?>` ta
   
 Download the .zip or git clone this into your sublime packages location, you can find it under "Preferences-->Browse Packages".
    
-You should have this instead: [package_control](http://wbond.net/sublime_packages/package_control)
+
