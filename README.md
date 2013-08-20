@@ -21,9 +21,6 @@ Sublime has issues with autcompleting php files that do not have closing `?>` ta
 
 ### Installation
 
-#### With Package Control
-
-You can install Wordpress Autocomplete from inside Sublime Text itself. Open the Command Palette and select "Package Control: Install Package", then search for "Wordpress Autocomplete" and you're done!
 
 #### Manual
   
