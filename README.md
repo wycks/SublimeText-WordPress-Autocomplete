@@ -31,7 +31,8 @@ Sublime won't autcompleting PHP files that do not have closing `?>` tags , so in
 
 ### Installation
 
+
 #### Manual
   
 Download the .zip or git clone this into your sublime packages location, you can find it under "Preferences-->Browse Packages".
-   
+
