@@ -1,6 +1,6 @@
 {
 	"scope": "source.php - variable.other.php",
-	"comment": "first part are Constants a-z followed by Class's a-z",
+	"comment": "Hooks a-z  - might still be a bit buggy",
 	"completions":
 	[
 	{"trigger": "_admin_menu", "contents": "'_admin_menu'" },

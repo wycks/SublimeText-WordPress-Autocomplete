@@ -1,6 +1,6 @@
 {
 	"scope": "source.php - variable.other.php",
-	"comment": "first part are Constants a-z followed by Class's a-z",
+	"comment": "First part are Constants a-z followed by Class's a-z",
 	"completions":
 	[
 		"ABSPATH",
