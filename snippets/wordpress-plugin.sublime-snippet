@@ -16,7 +16,7 @@ Domain Path: ${9:Domain Path}
 
 /*  
 
-    Copyright (C) ${10:Year}  ${4:Author}  (email : ${11:Email})
+    Copyright (C) ${10:Year}  ${4:Author}  ${11:Email}
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 

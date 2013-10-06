@@ -20,15 +20,15 @@ function register_cpt_${1:name}() {
 		'menu_name'          => __( '${2:Plural Name}', '${4:text-domain}' ),
 	);
 
-	\$args = array( 
-		'labels'              => \$labels,	
+	\$args = array(
+		'labels'              => \$labels,
 		'hierarchical'        => true,
 		'description'         => '${5:description}',
 		'taxonomies'          => array( 'category' ),
 		'public'              => true,
 		'show_ui'             => true,
 		'show_in_menu'        => true,
-		'show_in_admin_bar'	  => true,	
+		'show_in_admin_bar'	  => true,
 		'menu_position'       => null,
 		'menu_icon'           => null,
 		'show_in_nav_menus'   => true,
@@ -38,11 +38,11 @@ function register_cpt_${1:name}() {
 		'query_var'           => true,
 		'can_export'          => true,
 		'rewrite'             => true,
-		'capability_type'     => 'post', 
-		'supports'            => array( 
-									'title', 'editor', 'author', 'thumbnail', 
-									'excerpt','custom-fields', 'trackbacks', 'comments', 
-									'revisions', 'page-attributes', 'post-formats'
+		'capability_type'     => 'post',
+		'supports'            => array(
+								'title', 'editor', 'author', 'thumbnail', 
+								'excerpt','custom-fields', 'trackbacks', 'comments',
+								'revisions', 'page-attributes', 'post-formats'
 								),
 	);
 
