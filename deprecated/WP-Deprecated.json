@@ -216,3 +216,4 @@
 {"trigger": "get_site_allowed_themes", "contents": "get_site_allowed_themes();"},
 {"trigger": "wpmu_get_blog_allowedthemes", "contents": "wpmu_get_blog_allowedthemes(${1: ${2:\\$blog_id}} );"},
 {"trigger": "ms_deprecated_blogs_file", "contents": "ms_deprecated_blogs_file();"},
+{"trigger": "EP_ALL_ARCHIVES", "contents": "EP_ALL_ARCHIVES"},
