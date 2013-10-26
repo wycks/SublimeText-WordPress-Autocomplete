@@ -406,7 +406,7 @@
 	{"trigger": "found_users_query", "contents": "found_users_query();" },
 	{"trigger": "from", "contents": "from();" },
 	{"trigger": "fs_ftp_connection_types", "contents": "fs_ftp_connection_types(${1: ${2:\\$types}, ${3:\\$credentials}, ${4:\\$type}, ${5:\\$error}, ${6:\\$context}});" },
-	{"trigger": "gallery_style", "contents": "gallery_style(${1: ${2:\\$gallery_style."\n\t\t".}, ${3:\\$gallery_div}});" },
+	{"trigger": "gallery_style", "contents": "gallery_style(${1: ${2:\\$gallery_style}, ${3:\\$gallery_div}});" },
 	{"trigger": "generate_rewrite_rules", "contents": "generate_rewrite_rules(${1: ${2:\\$this}});" },
 	{"trigger": "get_ancestors", "contents": "get_ancestors(${1: ${2:\\$ancestors}, ${3:\\$object_id}, ${4:\\$object_type}});" },
 	{"trigger": "get_archives_link", "contents": "get_archives_link(${1: ${2:\\$link_html}});" },

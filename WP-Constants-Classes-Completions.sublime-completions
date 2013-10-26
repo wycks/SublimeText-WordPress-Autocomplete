@@ -178,7 +178,7 @@
 		"WP_Theme",
 		"WP_User",
 		"WP_User_Query",
-		"WP_User_Search"
+		"WP_User_Search",
 		"WP_Widget",
 		"WP_Widget_Archives",
 		"WP_Widget_Calendar",

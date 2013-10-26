@@ -9,11 +9,11 @@ Autocomplete for:
 
     WP version : 3.6.1
 
-    Functions  : 1712
-    Hooks      : 1446
-    Constants  :  188
+    Functions          : 1734
+    Hooks              : 1446
+    Constants/Classes  :  191
 
-Deprecated functions (218) have been removed :smiley_cat:
+Deprecated functions (219) have been removed :smiley_cat:
 
 This version also adds the ability for the first "tab" to delete ALL parameters instead of having to tab through each one, which is super useful:
 
@@ -31,6 +31,7 @@ Current Snippets:
  - `WP_Query` : Creates new WP_Query class
  - `wp_enqueue` : Creates wp_enqueue function
  - `register_post_type` : Register Post Type All Options
+ - `register_sidebar`  : Register Taxonomy All Options
  - `register_taxonomy`  : Register Taxonomy All Options
  - `wp_nav_menu` : wp_nav_menu All Options
 
