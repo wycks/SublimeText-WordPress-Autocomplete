@@ -10,7 +10,7 @@ Autocomplete for:
     WP version : 3.6.1
 
     Functions          : 1734
-    Hooks              : 1446
+    Hooks              : 1434
     Constants/Classes  :  191
 
 Deprecated functions (219) have been removed :smiley_cat:
@@ -45,14 +45,13 @@ Sublime won't autocomplete PHP files when there is no closing `?>` tags , so in 
 
 The other WordPress sublime package was not up to date, missing some features and stuff, so I build a [custom parser](https://github.com/wycks/WP-Hooks/tree/gh-pages/Sublime-Parser) for grabbing data from WP core.
 
-Some hooks are duplicated throughout the WP code-base (contain different parameters), so it is necessarily to tab through the options for some autocompletes.
+Some hooks/functions have duplicated names throughout the WP code-base, so it is necessarily to tab through the options for some autocompletes, typically the function(s) are first followed by the hooks.
 
 Hooks names which start as a variable have been removed, for example `do_action($page_hook)`, there are not many in WP and there is no great way to add them to Sublime.
 
 ### ToDo
 
 Add more snippets
-
 
 #### Manual
 

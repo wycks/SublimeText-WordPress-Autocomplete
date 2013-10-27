@@ -1,6 +1,6 @@
 {
 	"scope": "source.php - variable.other.php",
-	"comment": "first part are Constants a-z followed by Class's a-z",
+	"comment": "WP Functions",
 	"completions":
 	[
 	{"trigger": "__checked_selected_helper", "contents": "__checked_selected_helper(${1: ${2:\\$helper}, ${3:\\$current}, ${4:\\$echo}, ${5:\\$type}} );"},
