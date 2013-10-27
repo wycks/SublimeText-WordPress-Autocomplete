@@ -7,7 +7,7 @@ Also some Snippets for WordPress Boilerplate.
 
 Autocomplete for:
 
-    WP version : 3.6.1
+    WP version : 3.7.0
 
     Functions          : 1734
     Hooks              : 1434
