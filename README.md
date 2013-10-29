@@ -3,6 +3,9 @@
 Autocomplete for WordPress Functions, Hooks, Constants, Classes.
 Also some Snippets for WordPress Boilerplate.
 
+## Please note this has been merged into the official Sublime text WordPress plugin, so you can auto-update via sublime, the plugin is here: https://github.com/purplefish32/sublime-text-2-wordpress
+
+
 ### Features
 
 Autocomplete for:
@@ -43,17 +46,10 @@ Sublime won't autocomplete PHP files when there is no closing `?>` tags , so in 
 
 ### Notes
 
-The other WordPress sublime package was not up to date, missing some features and stuff, so I build a [custom parser](https://github.com/wycks/WP-Hooks/tree/gh-pages/Sublime-Parser) for grabbing data from WP core.
+[Custom parser](https://github.com/wycks/WP-Hooks/tree/gh-pages/Sublime-Parser) for grabbing data from WP core.
 
 Some hooks/functions have duplicated names throughout the WP code-base, so it is necessarily to tab through the options for some autocompletes, typically the function(s) are first followed by the hooks.
 
 Hooks names which start as a variable have been removed, for example `do_action($page_hook)`, there are not many in WP and there is no great way to add them to Sublime.
 
-### ToDo
-
-Add more snippets
-
-#### Manual
-
-Download the .zip or git clone this into your sublime packages location, you can find it under "Preferences-->Browse Packages".
 
