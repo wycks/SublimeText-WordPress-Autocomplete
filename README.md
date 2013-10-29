@@ -3,7 +3,9 @@
 Autocomplete for WordPress Functions, Hooks, Constants, Classes.
 Also some Snippets for WordPress Boilerplate.
 
-## Please note this has been merged into the official Sublime text WordPress plugin, so you can auto-update via sublime, the plugin is here: https://github.com/purplefish32/sublime-text-2-wordpress
+### Please note this has been merged into the official Sublime text WordPress plugin.
+
+You can auto-update via sublime, the plugin is here: https://github.com/purplefish32/sublime-text-2-wordpress
 
 
 ### Features
