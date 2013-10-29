@@ -48,7 +48,7 @@ Sublime won't autocomplete PHP files when there is no closing `?>` tags , so in 
 
 ### Notes
 
-[Custom parser](https://github.com/wycks/WP-Hooks/tree/gh-pages/Sublime-Parser) for grabbing data from WP core.
+[Custom parser](https://github.com/wycks/WP-Sublime-Parser) for grabbing data from WP core.
 
 Some hooks/functions have duplicated names throughout the WP code-base, so it is necessarily to tab through the options for some autocompletes, typically the function(s) are first followed by the hooks.
 
